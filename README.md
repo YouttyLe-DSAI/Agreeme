@@ -1,7 +1,7 @@
-# 📂 Báo cáo Bàn giao Dự án: AI Contract Analyzer (AGREEME)
+AI Contract Analyzer (AGREEME)
  
 **Ngày cập nhật:** 27/11/2025  
-**Trạng thái:** Frontend Prototype (Giao diện hoàn thiện + Logic giả lập LocalStorage)
+**Trạng thái:** Giao diện hoàn thiện + Logic giả lập LocalStorage
 
 ---
 ## 1. Tổng quan Dự án
